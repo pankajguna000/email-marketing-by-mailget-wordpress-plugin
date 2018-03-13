@@ -1,0 +1,1 @@
+# email-marketing-by-mailget-wordpress-plugin
